@@ -9,7 +9,8 @@ Online Utilities
 ----------------
 
 **Text editors**  
-[JSON](http://www.jsoneditoronline.org/)  
+[JSON EDITOR](http://www.jsoneditoronline.org/)  
+[JSON DIFF](http://prettydiff.com/)  
 [Mardown](https://stackedit.io)  
 
 
