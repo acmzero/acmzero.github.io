@@ -2,6 +2,7 @@
 Title: "java 7 for ubuntu 17.04"
 date: 2017-09-11 12:58:00 -0600
 categories: system
+permalink: java7
 ---
 Install Java 7 to ubuntu 17.04 or any other ubuntu that doesn't support version 7.
 ------------------------------------------------------------------------
